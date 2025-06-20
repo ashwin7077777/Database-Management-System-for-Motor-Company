@@ -88,11 +88,3 @@ This schema is ideal for:
 
 ---
 
-### 📁 Files You Can Include in GitHub Repo
-
-* `motorcompany_schema.sql`: Contains all `CREATE TABLE` and `INSERT` statements.
-* `README.md`: With the above documentation.
-* (Optional) `.png` ER Diagram image for visual schema layout.
-
----
-
