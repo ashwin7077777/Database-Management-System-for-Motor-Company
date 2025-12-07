@@ -1,7 +1,7 @@
 
 ## 🚗 MotorCompany SQL Database System
 
-This project provides a fully designed **relational SQL database** to model the backend of a **motor and real estate management system**. It simulates how a motor company may manage its car brands (makes), models, users, brokers, logins, and related personal data in a well-normalized and relational manner.
+This project provides a fully designed **relational SQL database** to model the backend of a **motor management system**. It simulates how a motor company may manage its car brands (makes), models, users, brokers, logins, and related personal data in a well-normalized and relational manner.
 
 ---
 
